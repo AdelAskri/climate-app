@@ -50,7 +50,6 @@ class _WeatherPageState extends State<WeatherPage> {
             colors: [kPurpleColor, kPurpleSemiColor]),
       ),
       child: Scaffold(
-
         backgroundColor: Colors.transparent,
         body: SafeArea(
           child: Column(
